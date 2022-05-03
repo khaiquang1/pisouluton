@@ -1,0 +1,77 @@
+li.none-lis {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    list-style: none;
+}
+
+span.text-alert {
+    color: #FF0000;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.notification {
+    padding: 0;
+}
+
+ul.error {
+    color: #FF0000;
+}
+
+ul.message {
+    color: #008000;
+}
+
+button.btn.btn-rounded.btn-noborder.btn-stk.min-width-125.mb-10 {
+    background: #faac1f;
+    color: #fff;
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+}
+
+button#btn-report-path {
+    background: #faac1f;
+    color: #fff;
+    -webkit-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+}
+
+.btn-stk:hover,
+.btn-stk:active,
+.btn-stk:focus {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    background-color: #ffbf4c !important;
+    border: 0.8px solid white!important;
+}
+
+#btn-reset:hover {
+    color: #fff;
+    background-color: #bb8a07;
+    border-color: rgba(255, 255, 255, 0.18);
+}
+
+button.btn.btn-rounded.btn-noborder.btn-light.min-width-125.mb-10.text-white:hover {
+    color: #fff;
+    background-color: #bb8a07;
+    border-color: rgba(255, 255, 255, 0.18);
+}
+
+.orgchart .node .title {
+    padding-top: 20px !important;
+    height: 40px !important;
+}
+
+.modal-content {
+    background-color: rebeccapurple !important;
+}
+
+.loc {
+    right: 12.5px;
+    position: absolute;
+}
